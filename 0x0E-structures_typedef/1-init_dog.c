@@ -1,6 +1,6 @@
 /*
  * File: 1-init_dog.c
- * Auth: Paul Mercy Bosede
+ * Auth: Paul Mehmet
  */
 
 #include "dog.h"
@@ -22,3 +22,4 @@ void init_dog(struct dog *d, char *name, float age, char *owner)
 		d->owner = owner;
 	}
 }
+         
