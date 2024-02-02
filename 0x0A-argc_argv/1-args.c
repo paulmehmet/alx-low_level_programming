@@ -1,6 +1,6 @@
 /*
  * File: 1-args.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include <stdio.h>
