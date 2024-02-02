@@ -1,6 +1,6 @@
 /*
  * File: 100-change.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include <stdio.h>
