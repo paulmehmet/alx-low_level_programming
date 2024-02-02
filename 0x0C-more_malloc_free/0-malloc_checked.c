@@ -1,6 +1,6 @@
 /*
  * File: 0-malloc_checked.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "main.h"
