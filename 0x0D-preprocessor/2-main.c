@@ -1,6 +1,6 @@
 /*
  * File: 2-main.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include <stdio.h>
@@ -17,3 +17,4 @@ int main(void)
 
 	return (0);
 }
+ 
