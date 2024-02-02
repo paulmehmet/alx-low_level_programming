@@ -1,6 +1,6 @@
 /*
  * File: 3-mul.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include <stdio.h>
