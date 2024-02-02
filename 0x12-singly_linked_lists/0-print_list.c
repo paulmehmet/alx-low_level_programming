@@ -1,6 +1,6 @@
 /*
  * File: 0-print_list.c
- * Auth: Paul Mercy Bosede
+ * Auth: Paul Mehmet
  */
 
 #include "lists.h"
