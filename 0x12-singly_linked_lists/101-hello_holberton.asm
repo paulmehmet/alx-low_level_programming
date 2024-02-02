@@ -1,5 +1,5 @@
 ; File: 101-hello_holberton.asm
-; Auth: Oni Michael
+; Auth: Paul Mehmet
 ; Desc: 64-bit assembly program that prints
 ;       Hello, Holberton followed by a new line.
 
