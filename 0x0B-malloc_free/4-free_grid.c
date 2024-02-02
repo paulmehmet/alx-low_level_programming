@@ -1,6 +1,6 @@
 /*
  * File: 4-free_grid.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "main.h"
@@ -20,3 +20,4 @@ void free_grid(int **grid, int height)
 
 	free(grid);
 }
+ 
