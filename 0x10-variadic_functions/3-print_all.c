@@ -1,6 +1,6 @@
 /*
  * File: 3-print_all.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "variadic_functions.h"
@@ -116,3 +116,4 @@ void print_all(const char * const format, ...)
 
 	va_end(args);
 }
+ 
