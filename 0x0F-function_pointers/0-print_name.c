@@ -1,6 +1,6 @@
 /*
  * File: 0-print_name.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "function_pointers.h"
@@ -17,3 +17,4 @@ void print_name(char *name, void (*f)(char *))
 
 	f(name);
 }
+ 
