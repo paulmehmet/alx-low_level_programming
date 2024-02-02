@@ -1,6 +1,6 @@
 /*
  * File: 3-main.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "3-calc.h"
