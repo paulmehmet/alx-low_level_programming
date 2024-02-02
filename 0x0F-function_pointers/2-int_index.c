@@ -1,6 +1,6 @@
 /*
  * File: 2-int_index.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "function_pointers.h"
