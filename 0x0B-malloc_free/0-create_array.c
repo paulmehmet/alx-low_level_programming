@@ -1,6 +1,6 @@
 /*
  * File: 0-create_array.c
- * Auth: oni michael
+ * Auth: Paul Mehmet
  */
 
 #include "main.h"
