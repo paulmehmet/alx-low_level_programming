@@ -1,6 +1,6 @@
 /*
  * File: 3-add_node_end.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "lists.h"
