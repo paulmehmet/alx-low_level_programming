@@ -1,6 +1,6 @@
 /*
  * File: 2-print_dog.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "dog.h"
