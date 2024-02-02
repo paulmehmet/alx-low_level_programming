@@ -1,6 +1,6 @@
 /*
  * File: 4-add.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include <stdio.h>
