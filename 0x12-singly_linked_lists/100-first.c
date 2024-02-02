@@ -1,6 +1,6 @@
 /*
  * File: 100-first.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include <stdio.h>
@@ -16,3 +16,4 @@ void hare(void)
 	printf("You're beat! and yet, you must allow,\n"
 	       "I bore my house upon my back!\n");
 }
+  
