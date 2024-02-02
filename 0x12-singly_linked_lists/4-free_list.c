@@ -1,6 +1,6 @@
 /*
  * File: 4-free_list.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 #include "lists.h"
 #include <stdlib.h>
