@@ -1,6 +1,6 @@
 /*
  * File: 4-new_dog.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "dog.h"
