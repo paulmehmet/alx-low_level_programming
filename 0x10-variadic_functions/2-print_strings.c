@@ -1,6 +1,6 @@
 /*
  * File: 2-print_strings.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "variadic_functions.h"
@@ -41,3 +41,4 @@ void print_strings(const char *separator, const unsigned int n, ...)
 
 	va_end(strings);
 }
+ 
