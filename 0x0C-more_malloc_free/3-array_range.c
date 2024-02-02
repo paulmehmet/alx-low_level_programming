@@ -1,6 +1,6 @@
 /*
  * File: 3-array_range.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "main.h"
