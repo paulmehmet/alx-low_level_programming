@@ -1,6 +1,6 @@
 /*
  * File: 2-str_concat.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "main.h"
