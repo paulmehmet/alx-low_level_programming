@@ -3,7 +3,7 @@
 
 /*
  * File: variadic_functions.h
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  * Desc: Header file containing prototypes for all functions
  *       used in the 0x0F-variadic_functions directory.
  */
@@ -29,3 +29,4 @@ void print_strings(const char *separator, const unsigned int n, ...);
 void print_all(const char * const format, ...);
 
 #endif
+ 
