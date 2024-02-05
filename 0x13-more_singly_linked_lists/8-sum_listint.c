@@ -1,6 +1,6 @@
 /*
  * File: 8-sum_listint.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "lists.h"
