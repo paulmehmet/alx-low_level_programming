@@ -1,6 +1,6 @@
 /*
  * File: 10-delete_nodeint.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "lists.h"
