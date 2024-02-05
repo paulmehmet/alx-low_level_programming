@@ -1,6 +1,6 @@
 /*
  * File: 103-find_loop.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "lists.h"
