@@ -1,6 +1,6 @@
 /*
  * File: 7-get_nodeint.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "lists.h"
