@@ -1,6 +1,6 @@
 /*
  * File: 102-free_listint_safe.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "lists.h"
