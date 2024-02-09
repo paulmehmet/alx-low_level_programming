@@ -1,6 +1,6 @@
 /*
  * File: 1-print_binary.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "main.h"
