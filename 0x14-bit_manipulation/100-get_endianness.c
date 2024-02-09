@@ -1,6 +1,6 @@
 /*
  * File: 100-get_endianness.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "main.h"
