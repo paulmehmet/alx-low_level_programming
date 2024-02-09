@@ -1,6 +1,6 @@
 /*
  * File: 4-clear_bit.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "main.h"
