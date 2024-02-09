@@ -1,6 +1,6 @@
 /*
  * File: 5-flip_bits.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "main.h"
