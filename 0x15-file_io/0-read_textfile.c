@@ -1,6 +1,6 @@
 /*
  * File: 0-read_textfile.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "main.h"
