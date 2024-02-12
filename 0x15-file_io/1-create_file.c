@@ -1,6 +1,6 @@
 /*
  * File: 1-create_file.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "main.h"
