@@ -1,6 +1,6 @@
 /*
  * File: 2-append_text_to_file.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include "main.h"
