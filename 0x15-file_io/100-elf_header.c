@@ -1,6 +1,6 @@
 /*
  * File: 100-elf_header.c
- * Auth: Oni Michael
+ * Auth: Paul Mehmet
  */
 
 #include <elf.h>
