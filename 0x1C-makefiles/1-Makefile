@@ -1,0 +1,12 @@
+# Requirements
+# name of the executable: school
+# rules:
+		# all: The all rule builds your executable
+		# variable: none
+
+CC = gcc
+SRC = main.c school.c
+
+all: ${SRC}
+		${CC} ${SRC} -o school
+
